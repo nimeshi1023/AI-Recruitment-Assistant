@@ -1,0 +1,24 @@
+Position: Junior Data Scientist
+
+We are looking for a Junior Data Scientist to join our data science team.
+
+Requirements:
+
+- Bachelor's degree in Data Science, Computer Science,
+  Information Technology or related field.
+- 1+ years of experience is preferred.
+- Strong Python programming skills.
+- SQL knowledge.
+- Experience with Pandas and NumPy.
+- Knowledge of Machine Learning.
+- Experience with Scikit-learn, TensorFlow or PyTorch.
+- Strong analytical and problem-solving skills.
+- Good communication skills.
+
+Responsibilities:
+
+- Analyze business datasets.
+- Develop machine learning models.
+- Clean and preprocess data.
+- Prepare reports and visualizations.
+- Work with other teams to solve business problems.
