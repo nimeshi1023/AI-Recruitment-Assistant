@@ -1,0 +1,549 @@
+rank,candidate_id,name,match_score,recommendation,ai_analysis
+1,C001,Kasun Perera,0,SHORTLIST,"Here is the candidate analysis based strictly on the provided job description and candidate information:
+
+---
+
+### 1. Candidate Summary
+Kasun Perera (C001) holds a BSc in Information Technology and has 1 year of experience. The candidate possesses technical skills in Python, SQL, Pandas, NumPy, Machine Learning, and TensorFlow, along with a Google Data Analytics Certificate. Their portfolio includes projects in Customer Churn Prediction and Sales Forecasting.
+
+---
+
+### 2. Match Score
+**90 / 100**
+
+*(The candidate meets all core educational, experience, and technical skill requirements, but lacks explicit evidence of soft skills like communication and problem-solving in the provided details.)*
+
+---
+
+### 3. Matching Skills
+* **Degree:** BSc in Information Technology (matches required related field).
+* **Experience:** 1 year (matches the 1+ years preferred requirement).
+* **Programming Languages & Databases:** Python, SQL.
+* **Data Libraries:** Pandas, NumPy.
+* **Domain Knowledge:** Machine Learning.
+* **Frameworks:** TensorFlow (matches the requirement for Scikit-learn, TensorFlow, or PyTorch).
+
+---
+
+### 4. Missing Skills
+* **Communication Skills:** Not explicitly mentioned in the candidate profile.
+* **Analytical & Problem-Solving Skills:** Not explicitly mentioned in the candidate profile.
+* **Alternative ML Frameworks:** Scikit-learn and PyTorch (TensorFlow is present, but these specific frameworks are not listed).
+
+---
+
+### 5. Candidate Strengths
+* Direct alignment with the required degree background (BSc in IT).
+* Meets the preferred 1 year of experience for a junior position.
+* Has demonstrated practical application through relevant data science projects (Customer Churn Prediction, Sales Forecasting).
+* Strong technical skill set directly matching core job requirements (Python, SQL, Pandas, NumPy, ML, TensorFlow).
+* Possesses formal certification in data analytics (Google Data Analytics Certificate).
+
+---
+
+### 6. Candidate Weaknesses
+* Profile does not include explicit details regarding communication or analytical/problem-solving skills.
+* No documented experience with Scikit-learn or PyTorch, which are common frameworks for junior data science roles.
+
+---
+
+### 7. Recommendation
+**SHORTLIST**
+
+---
+
+### 8. Recommendation Explanation
+The candidate meets all essential technical qualifications, educational criteria, and preferred experience duration required for the Junior Data Scientist position. Their hands-on project experience in machine learning and data analysis aligns well with the stated job responsibilities. 
+
+---
+
+### 9. Interview Questions
+1. **Technical/Project:** Can you walk us through how you built your Customer Churn Prediction model using Python and TensorFlow, specifically detailing how you cleaned and preprocessed the data?
+2. **Data Manipulation & SQL:** How have you used SQL in combination with Pandas and NumPy to analyze business datasets in your previous experience or projects?
+3. **Soft Skills / Problem Solving:** Can you describe a challenging business problem you solved during your projects and how you communicated your findings to stakeholders?"
+2,C002,Nimal Fernando,0,SHORTLIST,"Here is the analysis of the candidate against the provided job description:
+
+### 1. Candidate Summary
+Nimal Fernando (Candidate ID: C002) is a Data Analyst with 2 years of experience in business intelligence and machine learning. He holds a Bachelor of Science in Computer Science and possesses background skills in Python, SQL, Java, Power BI, and Excel. His portfolio includes projects in Sales Dashboards and Customer Segmentation, as well as a Microsoft Power BI Certification.
+
+---
+
+### 2. Match Score
+**75 / 100**
+
+---
+
+### 3. Matching Skills
+* **Degree**: BSc in Computer Science (meets the Bachelor's degree requirement).
+* **Experience**: 2 years (meets/exceeds the 1+ years preferred requirement).
+* **Python**: Python programming skill listed.
+* **SQL**: SQL skill listed.
+* **Machine Learning**: Machine Learning skill listed.
+
+---
+
+### 4. Missing Skills
+* **Pandas and NumPy**: Not explicitly mentioned in the candidate's skills or profile.
+* **Scikit-learn, TensorFlow, or PyTorch**: No specific machine learning frameworks or libraries are explicitly listed.
+
+---
+
+### 5. Candidate Strengths
+* **Relevant Qualification & Experience**: Meets the required educational background (BSc in Computer Science) and exceeds the preferred experience (2 years vs. 1+ years).
+* **Core Technical Competencies**: Possesses core programming and query skills required for the role (Python, SQL).
+* **Applied Machine Learning & Visualization**: Demonstrated application of machine learning through a practical project (Customer Segmentation) along with data visualization experience (Power BI, Excel, Sales Dashboard project).
+
+---
+
+### 6. Candidate Weaknesses
+* **Unspecified Python ML Stack**: The candidate lists general ""Python"" and ""Machine Learning"" skills, but does not explicitly list essential Python libraries specified in the job description (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch).
+
+---
+
+### 7. Recommendation
+**CONSIDER**
+
+---
+
+### 8. Recommendation Explanation
+The candidate strong aligns with the background requirements, possessing a relevant Computer Science degree, 2 years of experience, and fundamental skills in Python, SQL, and Machine Learning. However, because specific required Python libraries (Pandas, NumPy, and Scikit-learn/TensorFlow/PyTorch) are not explicitly mentioned in the candidate's profile, a recruiter should evaluate and confirm their hands-on experience with these tools before proceeding to a final shortlist.
+
+---
+
+### 9. Interview Questions
+1. **Tooling & Frameworks**: *You listed Python and Machine Learning on your profile. Which specific libraries (e.g., Pandas, NumPy, Scikit-learn, PyTorch, or TensorFlow) do you use for data cleaning and model building?*
+2. **Project Experience**: *Could you walk us through your ""Customer Segmentation"" project, detailing how you queried the data using SQL and applied machine learning techniques in Python?*
+3. **Data Preprocessing**: *The role requires cleaning and preprocessing business datasets. Can you describe a scenario in your past experience where you had to clean a complex dataset before analyzing it or building a report?*"
+3,C003,Amaya Silva,0,SHORTLIST,"Here is the analysis of candidate **Amaya Silva** against the **Junior Data Scientist** job description based strictly on the provided information.
+
+---
+
+### 1. Candidate Summary
+Amaya Silva holds a BSc in Data Science and has 1 year of experience in the field. She possesses technical skills in Python, R, SQL, Pandas, NumPy, Scikit-learn, and Tableau. Additionally, she holds an IBM Data Science Certificate and has completed practical projects in House Price Prediction and Customer Segmentation.
+
+---
+
+### 2. Match Score
+**90 / 100**
+
+---
+
+### 3. Matching Skills
+* **Degree:** BSc in Data Science (Matches requirement for Bachelor's degree in Data Science or related field).
+* **Experience:** 1 year (Matches 1+ years preferred requirement).
+* **Programming Languages:** Python, SQL.
+* **Data Libraries/Tools:** Pandas, NumPy.
+* **Machine Learning & Frameworks:** Knowledge of Machine Learning, Scikit-learn.
+
+---
+
+### 4. Missing Skills
+* **Deep Learning Frameworks:** No explicit mention of TensorFlow or PyTorch (though Scikit-learn fulfills the framework requirement option).
+* **Soft Skills (Unstated):** Explicit documentation of ""communication skills"" and ""analytical/problem-solving skills"" is not explicitly noted in the candidate profile text.
+
+---
+
+### 5. Candidate Strengths
+* **Direct Educational Alignment:** Holds a formal BSc in Data Science.
+* **Core Technical Stack Fit:** Strong alignment with the primary technical requirements (Python, SQL, Pandas, NumPy, Scikit-learn).
+* **Relevant Practical Work:** Practical hands-on project experience in regression (""House Price Prediction"") and clustering/segmentation (""Customer Segmentation"").
+* **Industry Certifications:** Possesses an IBM Data Science Certificate, demonstrating targeted learning.
+
+---
+
+### 6. Candidate Weaknesses
+* Candidate profile lacks explicit information regarding soft skills such as written/verbal communication or cross-team collaboration.
+* No documented experience with advanced deep learning frameworks (TensorFlow, PyTorch).
+
+---
+
+### 7. Recommendation
+**SHORTLIST**
+
+---
+
+### 8. Recommendation Explanation
+Amaya Silva meets virtually all primary qualification criteria for the Junior Data Scientist role. She possesses the preferred educational background (BSc in Data Science), satisfies the 1-year experience preference, and holds the required core technical skills (Python, SQL, Pandas, NumPy, Scikit-learn, and Machine Learning concepts). Her project work and certification demonstrate direct applicability to the role's responsibilities.
+
+---
+
+### 9. Interview Questions
+1. **Technical/Project:** *Could you walk us through your ""House Price Prediction"" project, specifically detailing how you cleaned the data and selected your feature sets using Python, Pandas, and Scikit-learn?*
+2. **Data Manipulation/SQL:** *Can you describe a scenario where you used SQL and Pandas together to clean, aggregate, or preprocess a raw dataset for analysis?*
+3. **Communication & Problem Solving:** *How do you approach explaining your machine learning models and visualizations (e.g., in Tableau) to non-technical business stakeholders?*"
+4,C004,Sahan Wijesinghe,0,REJECT,"### 1. Candidate Summary
+Sahan Wijesinghe holds a BSc in Software Engineering and has 3 years of overall professional experience. His background is primarily in software engineering, with a focus on backend and cloud development using Java, Spring Boot, React, MySQL, MongoDB, Docker, and AWS.
+
+---
+
+### 2. Match Score
+**40 / 100**
+
+*(Explanation: The candidate meets the educational background requirement, experience length criteria, and has SQL knowledge. However, he lacks core data science skills, including Python, data manipulation libraries, and machine learning concepts/frameworks.)*
+
+---
+
+### 3. Matching Skills
+* **Related Education:** Bachelor’s degree in a related field (BSc in Software Engineering).
+* **Experience Level:** 3 years of experience (exceeds the 1+ years preferred requirement).
+* **SQL Knowledge:** Experience with MySQL.
+
+---
+
+### 4. Missing Skills
+* Python programming skills.
+* Experience with Pandas and NumPy.
+* Knowledge of Machine Learning.
+* Experience with Scikit-learn, TensorFlow, or PyTorch.
+
+---
+
+### 5. Candidate Strengths
+* Solid educational background in software engineering.
+* 3 years of technical experience exceeding the minimum requirement.
+* Strong database experience with SQL (MySQL).
+* Additional technical skillset in backend engineering, cloud services (AWS Cloud Practitioner), and containerization (Docker).
+
+---
+
+### 6. Candidate Weaknesses
+* Absence of Python programming experience listed in his profile.
+* Lack of experience with data analysis and manipulation libraries (Pandas, NumPy).
+* No demonstrated knowledge or project experience in Machine Learning or ML frameworks (Scikit-learn, TensorFlow, PyTorch).
+
+---
+
+### 7. Recommendation
+**REJECT**
+
+---
+
+### 8. Recommendation Explanation
+While Sahan has a strong software engineering foundation, a relevant degree, and SQL skills, he lacks almost all essential technical skills required for a Data Scientist role, specifically Python, Pandas, NumPy, Machine Learning concepts, and ML frameworks. 
+
+---
+
+### 9. Interview Questions
+1. **SQL / Data Handling:** *Can you describe your experience working with MySQL, specifically regarding writing complex queries for data retrieval and aggregation?*
+2. **Transition to Data Science:** *Given your background in Software Engineering (Java/Spring Boot), have you had any experience or learning projects involving Python or Data Science tools like Pandas and Scikit-learn?*
+3. **Integration & Infrastructure:** *How could your experience with Docker and cloud deployment (AWS) be applied to deploying data science workflows or models into a production environment?*"
+5,C005,Dilki Jayawardena,0,CONSIDER,"### 1. Candidate Summary
+Dilki Jayawardena holds a BSc in Information Technology and has 0 years of professional experience. The candidate's background focuses on entry-level data analytics and business intelligence, with skills in Python, SQL, Excel, Power BI, and Pandas. They have completed projects in Sales Analytics and Customer Data Analysis, and hold a Microsoft Power BI Certification.
+
+### 2. Match Score
+**60 / 100**
+
+### 3. Matching Skills
+- **Education:** BSc in Information Technology (matches required degree in related field).
+- **Programming Languages:** Python.
+- **Database Management:** SQL.
+- **Data Manipulation:** Pandas.
+- **Reporting & Visualization:** Experience in analytics, reporting, and dashboard creation (Power BI, Excel).
+
+### 4. Missing Skills
+- **Experience:** 0 years (1+ years preferred).
+- **Data Libraries:** NumPy.
+- **Machine Learning:** Knowledge of Machine Learning concepts.
+- **Machine Learning Frameworks:** Experience with Scikit-learn, TensorFlow, or PyTorch.
+
+### 5. Candidate Strengths
+- Solid academic background in Information Technology.
+- Strong foundation in key data analysis tools (Python, SQL, Pandas).
+- Proven practical interest in data analysis through projects (Sales Analytics Dashboard, Customer Data Analysis) and a Microsoft Power BI Certification.
+
+### 6. Candidate Weaknesses
+- Complete lack of listed Machine Learning skills or framework experience (Scikit-learn, TensorFlow, PyTorch), which are primary requirements for developing ML models.
+- Absence of professional experience (0 years vs. 1+ years preferred).
+- Missing experience with NumPy.
+
+### 7. Recommendation
+**CONSIDER**
+
+### 8. Recommendation Explanation
+The candidate meets the educational requirements and possesses strong fundamental skills for working with data (Python, SQL, Pandas) along with data visualization capabilities. However, because the candidate lacks explicit Machine Learning knowledge and framework experience required for a Data Scientist role, as well as 0 years of work experience, they should be considered primarily if the team is willing to train them in machine learning concepts.
+
+### 9. Interview Questions
+1. **Data Manipulation & Preprocessing:** ""Can you walk us through how you used Python and Pandas for data cleaning and preprocessing in your Customer Data Analysis project?""
+2. **Machine Learning Readiness:** ""The job description requires developing machine learning models. What exposure or theoretical background do you have with Machine Learning and libraries like Scikit-learn or NumPy?""
+3. **Data Analysis & Visualization:** ""How did you structure your Sales Analytics Dashboard project using SQL and Power BI from raw dataset to final visualization?"""
+6,C006,Ravindu Perera,0,SHORTLIST,"Here is the candidate analysis based strictly on the provided job description and candidate profile.
+
+============================================================
+CANDIDATE ANALYSIS REPORT
+============================================================
+
+### 1. Candidate Summary
+Ravindu Perera is an AI engineer with 2 years of experience and a BSc in Artificial Intelligence. The candidate has practical experience in deep learning, computer vision, and projects involving image classification and disease detection systems.
+
+### 2. Match Score
+**85/100**
+
+### 3. Matching Skills
+* **Education:** BSc in Artificial Intelligence (meets the requirement for a degree in a related field).
+* **Experience:** 2 years of experience (meets the 1+ years preferred requirement).
+* **Programming Languages:** Python.
+* **Database Knowledge:** SQL.
+* **Machine Learning & Frameworks:** Machine Learning, TensorFlow, PyTorch (meets the requirement for TensorFlow or PyTorch).
+
+### 4. Missing Skills
+* **Pandas** (not explicitly listed in the candidate profile).
+* **NumPy** (not explicitly listed in the candidate profile).
+* **Scikit-learn** (not explicitly listed, though TensorFlow and PyTorch are present).
+* **Explicitly mentioned soft skills:** Communication skills, analytical and problem-solving skills (not explicitly detailed in the candidate profile).
+* **Explicitly mentioned tasks:** Experience with data cleaning/preprocessing and preparing reports/visualizations.
+
+### 5. Candidate Strengths
+* Exceeds the preferred experience duration (2 years vs. 1+ years).
+* Holds a highly relevant degree (BSc in Artificial Intelligence) and a Deep Learning Specialization certification.
+* Strong technical coverage in core requirements: Python, SQL, Machine Learning, TensorFlow, and PyTorch.
+* Hands-on practical project experience in Computer Vision and Deep Learning (Image Classification, Disease Detection System).
+
+### 6. Candidate Weaknesses
+* Candidate's documented experience leans towards Computer Vision and Deep Learning rather than traditional tabular data analysis, dataset cleaning, or business report preparation.
+* Missing explicit mentions of core data manipulation and analytics libraries (Pandas and NumPy).
+
+### 7. Recommendation
+**SHORTLIST**
+
+### 8. Recommendation Explanation
+Ravindu Perera is a strong candidate who meets the educational background, exceeds the preferred experience timeline, and possesses key technical skills required for the role (Python, SQL, Machine Learning, TensorFlow, PyTorch). Although specific data manipulation libraries (Pandas, NumPy) are not explicitly mentioned in their profile, their background in AI and deep learning provides a solid foundation. An interview is recommended to evaluate their experience with general data analysis and business data preprocessing.
+
+### 9. Interview Questions
+1. **Data Preprocessing & Libraries:** *""Your profile highlights deep learning frameworks like TensorFlow and PyTorch. Do you have experience using Pandas and NumPy for cleaning and manipulating tabular business datasets?""*
+2. **Business Dataset Analysis:** *""The position requires analyzing business datasets and building ML models. Can you walk us through how you would handle an unstructured or noisy business dataset prior to model development?""*
+3. **Communication & Stakeholder Management:** *""How do you approach explaining complex machine learning or deep learning model outputs and reports to non-technical business teams?""*"
+7,C007,Tharushi Fernando,0,SHORTLIST,"Here is the analysis of the candidate based strictly on the provided job description and candidate information.
+
+***
+
+### 1. Candidate Summary
+Tharushi Fernando is a Data Science graduate (BSc in Data Science) with 1 year of experience. Her skill set includes Python, SQL, R, Statistics, Machine Learning, and Power BI. She holds a Data Science Professional Certificate and has completed projects in Sales Prediction and Customer Churn Analysis.
+
+---
+
+### 2. Match Score
+**75 / 100**
+
+---
+
+### 3. Matching Skills
+* **Degree:** BSc in Data Science (Matches Bachelor's degree requirement)
+* **Experience:** 1 year of experience (Matches 1+ years preference)
+* **Programming & Querying:** Python, SQL
+* **Domain Knowledge:** Machine Learning
+
+---
+
+### 4. Missing Skills
+* **Data Manipulation Libraries:** Pandas, NumPy (Not explicitly listed in candidate profile)
+* **Machine Learning Frameworks:** Scikit-learn, TensorFlow, or PyTorch (Not explicitly listed in candidate profile)
+* **Soft Skills:** Communication skills, Analytical/Problem-solving skills (Not explicitly mentioned in the profile)
+
+---
+
+### 5. Candidate Strengths
+* Direct educational match with a BSc in Data Science.
+* Strong core technical stack matching key requirements (Python, SQL, Machine Learning).
+* Relevant project experience (Sales Prediction, Customer Churn Analysis) aligning with key responsibilities like analyzing business datasets and building predictive models.
+* Additional relevant skills such as R, Statistics, Power BI, and a Data Science Professional Certificate.
+
+---
+
+### 6. Candidate Weaknesses
+* Profile lacks explicit mention of required Python data science libraries (Pandas, NumPy).
+* Profile does not explicitly specify experience with specific ML frameworks required by the role (Scikit-learn, TensorFlow, PyTorch).
+* Soft skills (communication, analytical problem-solving) are not explicitly documented in the candidate profile.
+
+---
+
+### 7. Recommendation
+**SHORTLIST**
+
+---
+
+### 8. Recommendation Explanation
+The candidate meets the core criteria for the Junior Data Scientist position, including the exact degree requirement (BSc in Data Science), the preferred 1 year of experience, and foundational technical skills (Python, SQL, Machine Learning). Additionally, her practical project work directly aligns with the role's responsibilities. While specific libraries and frameworks (Pandas, NumPy, Scikit-learn/TensorFlow/PyTorch) are not explicitly named in the profile, her Python, Data Science degree, and Machine Learning background strongly suggest these can be assessed and verified during an interview.
+
+---
+
+### 9. Interview Questions
+1. **Libraries & Data Preprocessing:** In your Sales Prediction and Customer Churn Analysis projects, which Python libraries (such as Pandas or NumPy) did you use for data cleaning and preprocessing?
+2. **Machine Learning Frameworks:** Which specific machine learning frameworks or tools (e.g., Scikit-learn, TensorFlow, PyTorch) did you use to build and evaluate your models?
+3. **Data Handling & SQL:** Can you walk us through how you used SQL to query business datasets and how you integrated those results into your Python workflow for analysis?"
+8,C008,Chamod Silva,0,CONSIDER,"### 1. Candidate Summary
+Chamod Silva is a Business Intelligence Analyst with 2 years of professional experience and a BSc in Information Systems. The candidate holds a Microsoft Power BI Certification and possesses technical skills in Python, SQL, Power BI, Tableau, and Excel. Their practical project experience includes developing Business Intelligence dashboards and performing sales analysis.
+
+---
+
+### 2. Match Score
+**55/100**
+
+---
+
+### 3. Matching Skills
+* **Degree in a related field:** BSc in Information Systems
+* **Experience:** 2 years (meets the 1+ years preferred requirement)
+* **Python:** Listed under skills
+* **SQL:** Listed under skills
+* **Data Visualization & Reporting:** Demonstrated through Power BI, Tableau, Excel, projects, and certification (matches the responsibility to prepare reports and visualizations)
+
+---
+
+### 4. Missing Skills
+* **Pandas**
+* **NumPy**
+* **Knowledge of Machine Learning**
+* **Machine Learning Frameworks:** Scikit-learn, TensorFlow, or PyTorch
+
+---
+
+### 5. Candidate Strengths
+* Possesses 2 years of relevant experience, exceeding the preferred minimum of 1+ years.
+* Strong background in data visualization, business intelligence, and reporting tools (Power BI Certified, Tableau, Excel).
+* Has the foundational programming and querying skills required for data manipulation (Python and SQL).
+* Relevant educational qualification (BSc in Information Systems).
+
+---
+
+### 6. Candidate Weaknesses
+* Lacks explicit mention of core data science libraries (Pandas, NumPy).
+* No demonstrated experience or background in Machine Learning concepts or relevant ML frameworks (Scikit-learn, TensorFlow, PyTorch).
+* Experience is primarily focused on Business Intelligence and reporting rather than predictive modeling or data science tasks.
+
+---
+
+### 7. Recommendation
+**CONSIDER**
+
+---
+
+### 8. Recommendation Explanation
+The candidate meets the foundational requirements, including a related degree, 2 years of experience, Python, SQL, and strong visualization capabilities. However, their profile is currently focused on Business Intelligence rather than Data Science, as key requirements like Machine Learning, Pandas, NumPy, and ML frameworks are missing. The candidate should be considered for an exploratory screening interview to assess whether they possess unlisted ML/data science knowledge or if they can easily bridge the skill gap.
+
+---
+
+### 9. Interview Questions
+1. *Python Data Manipulation:* How have you utilized Python in your BI projects, and do you have any experience using libraries such as Pandas or NumPy for data cleaning and preprocessing?
+2. *Machine Learning Exposure:* The role involves developing machine learning models. Do you have any foundational knowledge or practical exposure to machine learning concepts or tools like Scikit-learn, TensorFlow, or PyTorch?
+3. *Data Analysis & SQL:* Can you walk us through a specific dataset you analyzed for your Sales Analysis or BI Dashboard project using SQL and Python?"
+9,C009,Hiruni Perera,0,SHORTLIST,"### 1. Candidate Summary
+**Candidate Name:** Hiruni Perera (ID: C009)  
+**Education:** BSc in Computer Science  
+**Experience:** 1 year  
+**Overview:** Hiruni Perera is a Computer Science graduate with 1 year of experience specializing in Machine Learning, NLP, and recommendation systems. The candidate holds a Machine Learning Certificate and has completed projects in Sentiment Analysis and Recommendation Systems.
+
+---
+
+### 2. Match Score
+**90 / 100**
+
+---
+
+### 3. Matching Skills
+* **Degree:** BSc in Computer Science (Matches degree requirement)
+* **Experience:** 1 year (Matches 1+ years preferred requirement)
+* **Technical Skills:**
+  * Python
+  * SQL
+  * Pandas
+  * Machine Learning
+  * Scikit-learn
+* **Domain Experience:** NLP, Sentiment Analysis, Recommendation Systems
+
+---
+
+### 4. Missing Skills
+* **NumPy** (Explicitly required alongside Pandas in the job description)
+* **TensorFlow / PyTorch** (Listed as framework options alongside Scikit-learn in the job description; candidate lists Scikit-learn but not TensorFlow or PyTorch)
+* **Explicit mention of Data Visualization / Communication / Problem-Solving Skills** (Listed in job requirements/responsibilities, but not explicitly stated in candidate profile)
+
+---
+
+### 5. Candidate Strengths
+* **Strong Core Qualification Match:** Meets the required educational background (BSc in CS) and experience level (1 year).
+* **Direct Skill Alignment:** Possesses core technical skills required for the role, including Python, SQL, Pandas, Scikit-learn, and Machine Learning.
+* **Relevant Project Portfolio:** Practical experience in building machine learning models for Sentiment Analysis and Recommendation Systems.
+* **Continuous Learning:** Possesses a formal Machine Learning Certificate.
+
+---
+
+### 6. Candidate Weaknesses
+* **Unstated Required Libraries:** Profile lacks explicit mention of NumPy, which is specified in the job description.
+* **Limited Tool Variety:** No listed experience with deep learning frameworks (TensorFlow or PyTorch) or specific data visualization tools.
+
+---
+
+### 7. Recommendation
+**SHORTLIST**
+
+---
+
+### 8. Recommendation Explanation
+The candidate meets all essential criteria for the Junior Data Scientist role. They hold the required academic degree (BSc in Computer Science), satisfy the experience preference (1 year), and possess key technical skills required by the job description (Python, SQL, Pandas, Scikit-learn, and Machine Learning). Additionally, their project work in Sentiment Analysis and Recommendation Systems demonstrates directly relevant practical experience.
+
+---
+
+### 9. Interview Questions
+1. **Project / ML Experience:** *Can you walk us through the architecture and pipeline you built for your Sentiment Analysis project using Python and Scikit-learn?*
+2. **Technical Skills (Data Processing):** *How do you typically clean and prepare data using Pandas and SQL before training a machine learning model?*
+3. **Domain / Project Experience:** *What machine learning algorithms did you evaluate when building your Recommendation System project, and how did you measure performance?*"
+10,C010,Pasindu Fernando,0,CONSIDER,"Here is the analysis of the candidate based on the provided job description and candidate profile.
+
+---
+
+### 1. Candidate Summary
+Pasindu Fernando holds a BSc in Software Engineering and has 4 years of experience as a software engineer. The candidate has expertise in Python, SQL, Java, AWS, Docker, Kubernetes, and Git, with a background focused on cloud applications and microservices platforms.
+
+---
+
+### 2. Match Score
+**55 / 100**
+
+*(The candidate has strong software engineering fundamentals, Python, SQL, and an eligible degree exceeding the years of experience requirement. However, the profile lacks core data science and machine learning skills required for the role.)*
+
+---
+
+### 3. Matching Skills
+- **Degree in a related field:** BSc in Software Engineering
+- **Experience:** 4 years (meets/exceeds the 1+ years preferred)
+- **Python programming**
+- **SQL knowledge**
+
+---
+
+### 4. Missing Skills
+- **Pandas and NumPy**
+- **Machine Learning knowledge**
+- **Scikit-learn, TensorFlow, or PyTorch**
+- **Data cleaning, preprocessing, and visualization experience**
+
+---
+
+### 5. Candidate Strengths
+- Solid software engineering foundation with 4 years of experience.
+- Strong proficiency in key foundational programming tools required for the position (Python and SQL).
+- Additional technical expertise in cloud technologies and containerization (AWS, Docker, Kubernetes), which is valuable for model deployment and infrastructure.
+
+---
+
+### 6. Candidate Weaknesses
+- No documented experience or training in Machine Learning concepts.
+- Missing specific exposure to standard Python data science libraries (Pandas, NumPy).
+- Lack of experience with ML frameworks (Scikit-learn, TensorFlow, or PyTorch).
+
+---
+
+### 7. Recommendation
+**CONSIDER**
+
+---
+
+### 8. Recommendation Explanation
+Pasindu satisfies the educational requirement, exceeds the general experience requirement, and possesses strong foundational technical skills in Python and SQL. However, the profile reflects a Cloud/DevOps Software Engineer background rather than a Data Scientist background, missing explicit experience with Machine Learning and key data libraries (Pandas, NumPy, PyTorch/TensorFlow/Scikit-learn). Given that this is a Junior Data Scientist role, the candidate could be considered if the team is willing to assess their ability to quickly upskill in data science concepts.
+
+---
+
+### 9. Interview Questions
+1. You have a strong background in Software Engineering, Python, and SQL. What motivates you to apply for a Junior Data Scientist position?
+2. Have you utilized Python for data manipulation, analysis, or scripting in your cloud and microservices projects, and are you familiar with libraries like Pandas or NumPy?
+3. While your experience focuses on cloud and DevOps tools (AWS, Docker, Kubernetes), do you have any foundational knowledge or self-study experience in Machine Learning or frameworks like Scikit-learn, TensorFlow, or PyTorch?"
